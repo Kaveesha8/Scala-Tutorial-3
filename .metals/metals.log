@@ -1,0 +1,115 @@
+2022.07.14 08:57:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/lsp.trace.json or /Users/kaveeshamuthukuda/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.14 08:57:23 INFO  logging to file /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/metals.log
+2022.07.14 08:57:23 INFO  Started: Metals version 0.11.7 in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3' for client Visual Studio Code 1.69.1.
+2022.07.14 08:57:24 INFO  time: initialize in 0.73s
+2022.07.14 08:57:24 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.14 08:57:24 WARN  Build server is not auto-connectable.
+2022.07.14 08:57:24 WARN  no build tool detected in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.14 08:57:38 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 08:57:38 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 08:57:49 INFO  no build target found for /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.14 08:57:50 INFO  time: code lens generation in 11s
+2022.07.14 08:57:50 INFO  time: code lens generation in 11s
+Jul 14, 2022 8:58:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Jul 14, 2022 8:58:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+2022.07.14 08:58:59 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 10:56:12 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 10:58:30 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 10:59:16 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/scala3/src/main/Question1&2.scala
+2022.07.14 10:59:52 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 11:00:05 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 11:00:41 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/scala3/src/main/Question1&2.scala
+2022.07.14 11:00:56 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 13:33:52 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.14 23:33:32 INFO  shutting down Metals
+2022.07.18 07:25:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/lsp.trace.json or /Users/kaveeshamuthukuda/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.18 07:25:04 INFO  logging to file /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/metals.log
+2022.07.18 07:25:04 INFO  Started: Metals version 0.11.7 in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3' for client Visual Studio Code 1.69.1.
+2022.07.18 07:25:05 INFO  time: initialize in 0.77s
+2022.07.18 07:25:05 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.18 07:25:05 WARN  Build server is not auto-connectable.
+2022.07.18 07:25:05 WARN  no build tool detected in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.18 07:25:11 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/scala3/src/main/Question1&2.scala
+2022.07.18 07:25:11 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 07:25:19 INFO  no build target found for /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Jul 18, 2022 7:25:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2022.07.18 07:25:21 INFO  time: code lens generation in 1.53s
+2022.07.18 07:25:21 INFO  time: code lens generation in 1.53s
+2022.07.18 07:25:22 INFO  time: code lens generation in 10s
+2022.07.18 07:25:22 INFO  time: code lens generation in 10s
+2022.07.18 07:25:22 INFO  time: code lens generation in 10s
+2022.07.18 15:37:57 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+Jul 18, 2022 3:46:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 409
+2022.07.18 15:47:35 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:51:38 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:51:46 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:52:19 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:53:04 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:53:36 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:54:01 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 15:56:53 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 15:56:53 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 15:57:16 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 15:57:28 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:02:45 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:04:03 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:04:24 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:04:40 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:05:34 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:05:34 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:05:53 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+Jul 18, 2022 4:06:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1446
+2022.07.18 16:06:10 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:06:34 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:08:58 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:09:09 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:09:31 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question3.scala
+2022.07.18 16:09:48 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question2.scala
+2022.07.18 16:10:02 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question1.scala
+2022.07.18 16:10:46 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:10:46 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:11:16 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:11:24 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:16:10 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:23:22 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:23:41 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:23:44 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:24:04 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:24:22 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+Jul 18, 2022 4:24:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2794
+Jul 18, 2022 4:26:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2992
+2022.07.18 16:27:17 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:27:40 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:36:47 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:42:19 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:42:53 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question4.scala
+2022.07.18 16:43:22 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 16:43:22 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 16:43:32 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+Jul 18, 2022 4:44:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3578
+Jul 18, 2022 4:44:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3666
+2022.07.18 16:45:01 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+Jul 18, 2022 4:47:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3924
+2022.07.18 16:47:14 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 16:47:43 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 16:48:21 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 17:08:29 INFO  shutting down Metals
+2022.07.18 21:10:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/lsp.trace.json or /Users/kaveeshamuthukuda/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.18 21:10:31 INFO  logging to file /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/.metals/metals.log
+2022.07.18 21:10:31 INFO  Started: Metals version 0.11.7 in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3' for client Visual Studio Code 1.69.1.
+2022.07.18 21:10:31 INFO  time: initialize in 0.76s
+2022.07.18 21:10:31 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.18 21:10:31 WARN  Build server is not auto-connectable.
+2022.07.18 21:10:31 WARN  no build tool detected in workspace '/Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.18 21:10:37 WARN  no build target for: /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala
+2022.07.18 21:10:44 INFO  no build target found for /Users/kaveeshamuthukuda/Desktop/Year 2/Functional Programming/Tutorial 3/Question5.scala. Using presentation compiler with project's scala-library version: 3.1.3
